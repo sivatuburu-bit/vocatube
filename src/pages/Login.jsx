@@ -57,7 +57,7 @@ function Login() {
       })
     );
 
-    alert("✅ Login successful!");
+    // alert("✅ Login successful!");
 
     navigate("/");
   }
