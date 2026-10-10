@@ -74,7 +74,7 @@ function Signup() {
       JSON.stringify(updatedUsers)
     );
 
-    alert("✅ Account created successfully!");
+    // alert("✅ Account created successfully!");
 
     navigate("/login");
   }
